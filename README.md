@@ -1,4 +1,4 @@
-# **README:**
+# **Details:**
 
 
 
@@ -12,7 +12,7 @@ I'm not responsible for anything you do with this.
 
 
 
-# **CONTACT INFO**
+# **Contact Info**
 
 
 
@@ -21,7 +21,7 @@ I'm not responsible for anything you do with this.
 
 
 
-# **DONATE**
+# **Donate**
 
 
 
