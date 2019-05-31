@@ -27,6 +27,6 @@ I'm not responsible for anything you do with this.
 
 **Donations are appreciated. =)**
 
-- **(BTC):** *Blank*
+- **(BTC):** *1CBK5WFfbXVQEZ552GfVQcxcwCFXUk7awJ*
 
 - **(PayPal):** *friskaofficial@gmail.com*
