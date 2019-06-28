@@ -16,7 +16,7 @@ I'm not responsible for anything you do with this.
 
 
 
-- **discord:** *soggy#1337*
+- **discord:** *uu#1337*
 - **email:** *bis@s1n.pw*
 
 
