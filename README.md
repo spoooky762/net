@@ -12,7 +12,7 @@ I'm not responsible for anything you do with this.
 
 
 
-# **Contact Info**
+### **Contact Info**
 
 
 
@@ -21,7 +21,7 @@ I'm not responsible for anything you do with this.
 
 
 
-# **Donate**
+### **Donate**
 
 
 
@@ -29,4 +29,10 @@ I'm not responsible for anything you do with this.
 
 - **(BTC):** *1CBK5WFfbXVQEZ552GfVQcxcwCFXUk7awJ*
 
-- **(PayPal):** *friskaofficial@gmail.com*
+- **(PayPal):** *-*
+
+
+
+### **License**
+
+[![JitPack](https://img.shields.io/badge/license-MIT_License_with_anime_exception-green.svg)](https://github.com/s1nical/net/blob/master/LICENSE)
