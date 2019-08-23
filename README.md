@@ -35,4 +35,4 @@ I'm not responsible for anything you do with this.
 
 ### **License**
 
-[![JitPack](https://img.shields.io/badge/license-MIT_License_with_anime_exception-green.svg)](https://github.com/s1nical/net/blob/master/LICENSE)
+[![JitPack](https://img.shields.io/badge/license-MIT_License_with_anime_exception-green.svg)](https://github.com/8cy/net/blob/master/LICENSE)
