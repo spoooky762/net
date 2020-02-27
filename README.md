@@ -16,8 +16,8 @@ I'm not responsible for anything you do with this.
 
 
 
-- **discord:** *s1n#1337*
-- **email:** *bis@s1n.pw*
+- **discord:** *sin#1337*
+- **email:** *biz@maldrama.tk*
 
 
 
